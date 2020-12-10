@@ -1,0 +1,14 @@
+{
+    "name": "fuyuezhen/tp5-mw-admin",
+    "description": "后台",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "fuyuezhen",
+            "email": "976066889@qq.com"
+        }
+    ],
+    "require": {
+    }
+}
